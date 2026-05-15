@@ -33,7 +33,7 @@ Submission/
 ├── dashboard/
 │   ├── dashboard.py
 │   └── main_data.csv
-├── data/
+├── E-Commerce Public Dataset/
 │   ├── customers_dataset.csv
 │   ├── orders_dataset.csv
 │   ├── order_items_dataset.csv
@@ -43,5 +43,5 @@ Submission/
 │   └── product_category_name_translation.csv
 ├── Proyek_Analisis_Data.ipynb
 ├── README.md
-├── requirements.txt
-└── url.txt
+└── requirements.txt
+
